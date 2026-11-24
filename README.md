@@ -52,16 +52,6 @@ related to **water resources and food security**.
 
 ---
 
-## 📅 Contributions
-
-<p align="center">
-  <a href="https://github.com/wosonday">
-    <img src="https://ghchart.rshah.org/wosonday" alt="wosonday's contribution graph" width="100%" />
-  </a>
-</p>
-
----
-
 ## 🧰 Skills & Technologies
 
 <p align="center">
@@ -97,22 +87,6 @@ related to **water resources and food security**.
 <p align="center">
   <img src="./metrics.svg" alt="GitHub metrics" />
 </p>
-
----
-
-## ⚡ Recent Activity
-
-<!-- Updated automatically by .github/workflows/activity.yml -->
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/wosonday/SpySWAT/pull/2) in [wosonday/SpySWAT](https://github.com/wosonday/SpySWAT)
-2. 💪 Opened PR [#2](https://github.com/wosonday/SpySWAT/pull/2) in [wosonday/SpySWAT](https://github.com/wosonday/SpySWAT)
-3. 🚀 Published release [v0.2.4](https://github.com/wosonday/academic-writing-releases/releases/tag/v0.2.4) in [wosonday/academic-writing-releases](https://github.com/wosonday/academic-writing-releases)
-4. 🚀 Published release [v0.2.3](https://github.com/wosonday/academic-writing-releases/releases/tag/v0.2.3) in [wosonday/academic-writing-releases](https://github.com/wosonday/academic-writing-releases)
-5. 🚀 Published release [v0.2.2](https://github.com/wosonday/academic-writing-releases/releases/tag/v0.2.2) in [wosonday/academic-writing-releases](https://github.com/wosonday/academic-writing-releases)
-6. 🚀 Published release [v0.2.1](https://github.com/wosonday/academic-writing-releases/releases/tag/v0.2.1) in [wosonday/academic-writing-releases](https://github.com/wosonday/academic-writing-releases)
-7. 🚀 Published release [v0.2.0](https://github.com/wosonday/academic-writing-releases/releases/tag/v0.2.0) in [wosonday/academic-writing-releases](https://github.com/wosonday/academic-writing-releases)
-8. 🚀 Published release [v0.1.0](https://github.com/wosonday/academic-writing-releases/releases/tag/v0.1.0) in [wosonday/academic-writing-releases](https://github.com/wosonday/academic-writing-releases)
-<!--END_SECTION:activity-->
 
 ---
 

@@ -1,6 +1,6 @@
 <!-- ============================ BANNER ============================ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f4c75,50:1b998b,100:3a7d44&height=210&section=header&text=Nguyen%20Ba%20Thanh%20Son&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Hydrologist%20%26%20AI%20Engineer%20%C2%B7%20Research%20%26%20Engineering&descAlignY=58&descSize=18&animation=fadeIn" alt="banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f4c75,50:1b998b,100:3a7d44&height=210&section=header&text=Nguyen%20Ba%20Thanh%20Son&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Hydrologist%20%C2%B7%20AI%20Engineer%20%C2%B7%20Research%20%C2%B7%20Engineering&descAlignY=58&descSize=18&animation=fadeIn" alt="banner" width="100%" />
 </p>
 
 <p align="center">

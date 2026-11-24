@@ -1,15 +1,16 @@
 <!-- ============================ BANNER ============================ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f4c75,50:1b998b,100:3a7d44&height=200&section=header&text=Hi%2C%20I'm%20Son%20%F0%9F%91%8B&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Hydrology%20%C2%B7%20Environmental%20Modeling%20%C2%B7%20Machine%20Learning&descAlignY=60&descSize=18&animation=fadeIn" alt="banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f4c75,50:1b998b,100:3a7d44&height=210&section=header&text=Nguyen%20Ba%20Thanh%20Son&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Hydrologist%20%26%20AI%20Engineer%20%C2%B7%20Research%20%26%20Engineering&descAlignY=58&descSize=18&animation=fadeIn" alt="banner" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/wosonday">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=1B998B&center=true&vCenter=true&width=600&lines=Environmental+Resource+Management+%F0%9F%8C%8F;Master+by+Research+%40+Nong+Lam+University;SWAT+%2F+SWAT%2B+hydrological+modeling+%F0%9F%92%A7;Python+%C2%B7+Rust+%C2%B7+ML+for+streamflow+%F0%9F%A4%96" alt="Typing SVG" />
+  <a href="https://wosonday.id.vn/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=1B998B&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Son+%F0%9F%91%8B;M.Sc.+candidate+%40+Nong+Lam+University+%F0%9F%8E%93;Hydrology+%2B+AI+for+water+%26+food+security+%F0%9F%92%A7;SWAT+%2F+SWAT%2B+%C2%B7+CMIP6+%C2%B7+Machine+Learning+%F0%9F%A4%96;Based+in+Vietnam+%C2%B7+Thinking+in+systems+%F0%9F%8C%8F" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
+  <a href="https://wosonday.id.vn/"><img src="https://img.shields.io/badge/Website-wosonday.id.vn-1b998b?style=flat-square&logo=googlechrome&logoColor=white" alt="website" /></a>
   <img src="https://komarev.com/ghpvc/?username=wosonday&label=Profile%20views&color=1b998b&style=flat-square" alt="visitor counter" />
   <img src="https://img.shields.io/github/followers/wosonday?label=Followers&style=flat-square&color=0f4c75&logo=github" alt="followers" />
   <img src="https://img.shields.io/github/stars/wosonday?affiliations=OWNER&label=Stars&style=flat-square&color=3a7d44&logo=github" alt="stars" />
@@ -17,36 +18,110 @@
 
 ---
 
+## 📌 Pinned
+
+<p align="center">
+<a href="https://github.com/wosonday/SpySWAT">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=wosonday&repo=SpySWAT&show_owner=false&border_radius=6&description_lines_count=2&bg_color=0d1117&border_color=3d444d&title_color=4493f8&text_color=9198a1&icon_color=9198a1" />
+    <img width="49%" alt="SpySWAT" src="https://github-readme-stats.vercel.app/api/pin/?username=wosonday&repo=SpySWAT&show_owner=false&border_radius=6&description_lines_count=2&bg_color=ffffff&border_color=d1d9e0&title_color=0969da&text_color=59636e&icon_color=59636e" />
+  </picture>
+</a>
+<a href="https://github.com/wosonday/swat-preprocessing">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=wosonday&repo=swat-preprocessing&show_owner=false&border_radius=6&description_lines_count=2&bg_color=0d1117&border_color=3d444d&title_color=4493f8&text_color=9198a1&icon_color=9198a1" />
+    <img width="49%" alt="swat-preprocessing" src="https://github-readme-stats.vercel.app/api/pin/?username=wosonday&repo=swat-preprocessing&show_owner=false&border_radius=6&description_lines_count=2&bg_color=ffffff&border_color=d1d9e0&title_color=0969da&text_color=59636e&icon_color=59636e" />
+  </picture>
+</a>
+<a href="https://github.com/wosonday/bcflow">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=wosonday&repo=bcflow&show_owner=false&border_radius=6&description_lines_count=2&bg_color=0d1117&border_color=3d444d&title_color=4493f8&text_color=9198a1&icon_color=9198a1" />
+    <img width="49%" alt="bcflow" src="https://github-readme-stats.vercel.app/api/pin/?username=wosonday&repo=bcflow&show_owner=false&border_radius=6&description_lines_count=2&bg_color=ffffff&border_color=d1d9e0&title_color=0969da&text_color=59636e&icon_color=59636e" />
+  </picture>
+</a>
+<a href="https://github.com/wosonday/agmag">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=wosonday&repo=agmag&show_owner=false&border_radius=6&description_lines_count=2&bg_color=0d1117&border_color=3d444d&title_color=4493f8&text_color=9198a1&icon_color=9198a1" />
+    <img width="49%" alt="agmag" src="https://github-readme-stats.vercel.app/api/pin/?username=wosonday&repo=agmag&show_owner=false&border_radius=6&description_lines_count=2&bg_color=ffffff&border_color=d1d9e0&title_color=0969da&text_color=59636e&icon_color=59636e" />
+  </picture>
+</a>
+</p>
+
+---
+
 ## 🌱 About me
 
-I graduated in **Environmental Resource Management** and am currently pursuing a
-**Master by Research at Nong Lam University**, Ho Chi Minh City, Vietnam 🇻🇳.
+I'm **Son** — an environmental researcher and **M.Sc. candidate at Nong Lam University**, Ho Chi Minh City, Vietnam 🇻🇳.
 
-- 💧 Research focus: **hydrological modeling** with SWAT / SWAT+, calibration & validation, streamflow simulation
-- 🌦️ Working with **climate data**: bias correction, downscaling, hydrometeorological indices
-- 🤖 Exploring **machine learning hybrid models** for streamflow prediction
-- 🛠️ Building small tools in **Python** and **Rust** to automate research workflows
-- 📚 Currently learning: AI engineering from scratch, MLOps, agent tooling
+My research focuses on **hydrology and climate change**, with an emphasis on applying both
+**physically-based models** and **artificial intelligence** to address critical global challenges
+related to **water resources and food security**.
+
+<table>
+  <tr>
+    <td align="center" width="25%">💧<br/><b>Hydrology</b><br/><sub>Understanding water systems</sub></td>
+    <td align="center" width="25%">🤖<br/><b>AI &amp; Data</b><br/><sub>Learning from complexity</sub></td>
+    <td align="center" width="25%">🌦️<br/><b>Climate</b><br/><sub>Exploring future scenarios</sub></td>
+    <td align="center" width="25%">🛠️<br/><b>Open Source</b><br/><sub>Building tools for research</sub></td>
+  </tr>
+</table>
+
+### 🔬 What I do
+
+- **Hydrological Simulation** — building and calibrating SWAT / SWAT+ models for Vietnamese river basins
+- **Climate Impact Analysis** — CMIP6 data, climate-intervention (SAI / G6sulfur) scenarios and machine learning
+- **Climate & Hydrological Data Engineering** — automated pipelines for SWAT-based climate change scenario simulations
+
+### 🎓 Education
+
+| Degree                                                              | Institution                | Period         |
+| ------------------------------------------------------------------- | -------------------------- | -------------- |
+| **M.Sc.** Environmental Resources Management _(Master by research)_ | Nong Lam University – HCMC | 2025 – Present |
+| **B.E.** Environmental Resources Management                         | Nong Lam University – HCMC | 2020 – 2024    |
+
+📄 **Resume:** [2026_09_NguyenBaThanhSon_Resume.pdf](https://wosonday.id.vn/2026_09_NguyenBaThanhSon_Resume.pdf)
 
 ---
 
 ## 🧰 Skills & Technologies
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,rust,ts,html,sklearn,pytorch,latex,git,github,githubactions,vscode,windows&perline=12" alt="skills" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=py,r,git,github,vscode" alt="skills" />
 </p>
 
+<p align="center"><b>Python libraries</b></p>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/SWAT%20%2F%20SWAT%2B-1b998b?style=for-the-badge&logo=databricks&logoColor=white" alt="SWAT" />
-  <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" alt="QGIS" />
-  <img src="https://img.shields.io/badge/GDAL%20%2F%20Rasterio-5CAE58?style=for-the-badge&logo=osgeo&logoColor=white" alt="GDAL" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![xarray](https://img.shields.io/badge/xarray-2B6CB0?style=flat-square) ![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=flat-square&logo=pandas&logoColor=white) ![Rasterio](https://img.shields.io/badge/Rasterio-1b998b?style=flat-square) ![GDAL](https://img.shields.io/badge/GDAL-5CAE58?style=flat-square&logo=osgeo&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=flat-square) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
 </p>
+
+---
+
+## 📚 Publications
+
+<details open>
+<summary><b>2026</b></summary>
+
+- 📗 **Improving SWAT model accuracy using XGBoost with residual error learning method: a case study in the Upper Ba River Basin, Central Vietnam** — _Son, N. B. T._ · Viet Nam NATIONAL-GIS 2026 _(proceeding, peer-reviewed)_
+- 📝 **Quantifying the uncertainty of climate change impacts on hydrological regime of the Lo River Basin, Vietnam** — _Nguyen Ba Thanh Son_ · The GIS-IDEAS Journal (TGIJ) _(in revision)_ · [🔗](https://talks.geoinfo-lab.org/gis-ideas-2026/featured/)
+- 📤 **Toward a Vietnam-wide hydrologic model for surface water resources assessment: Regionalizing SWAT model parameters** — _L.H. Tu\*, Nguyen Ba Thanh Son, D.X. Hong, …_ · Hydrological Sciences Journal (HSJ) _(submitted)_
+- 📤 **Assessing agricultural drought propagation in the Ba River basin under climate change and solar geoengineering scenarios using SWAT-model** — _Nguyen Ba Thanh Son\*, L.H. Tu, D.X. Hong_ · Journal of Agriculture and Development (JAD) _(submitted)_
+- ✍️ **Assessment of hydrological impacts of the G6sulfur climate intervention scenario on river basins across different climatic zones in Vietnam** — _Nguyen Ba Thanh Son\*, L.H. Tu, D.X. Hong_ _(in preparation)_
+- ✍️ **How will Stratospheric Aerosol Injection (SAI) affect the hydrological regime and extreme weather conditions in the Ba River Basin, Vietnam?** — _Son, N. B. T._ _(in preparation)_
+
+</details>
+
+<details open>
+<summary><b>2025</b></summary>
+
+- 📗 **Assessing different objective functions used in SWAT model calibration: a case study in the An Lao River basin, Gia Lai province** — _Son, N. B. T._ · Viet Nam NATIONAL-GIS 2025 _(proceeding, peer-reviewed)_ · [🔗 ResearchGate](https://www.researchgate.net/publication/398651122_PHAN_TICH_CAC_HAM_MUC_TIEU_KHAC_NHAU_DUOC_SU_DUNG_TRONG_HIEU_CHINH_MO_HINH_SWAT_TRUONG_HOP_NGHIEN_CUU_TAI_LUU_VUC_SONG_AN_LAO_TINH_GIA_LAI)
+- 🖼️ **Assessing the impacts of climate changes on hydrological regime at Ba River Basin using CMIP6 data** — _Nguyen Ba Thanh Son_ · iVCEES-2025 Conference _(poster)_ · [🔗](https://icisequynhon.com/conferences/2025/iVCEES2025/program.html)
+
+</details>
+
+<sub>📗 published · 📝 in revision · 📤 submitted · ✍️ in preparation · 🖼️ poster — full list at <a href="https://wosonday.id.vn/publications">wosonday.id.vn/publications</a></sub>
 
 ---
 
@@ -60,44 +135,6 @@ I graduated in **Environmental Resource Management** and am currently pursuing a
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=wosonday&theme=transparent&ring=1B998B&fire=3A7D44&currStreakLabel=1B998B&hide_border=true" alt="GitHub streak" />
 </p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wosonday&bg_color=00000000&color=8b949e&line=1b998b&point=3a7d44&area=true&hide_border=true" alt="Contribution graph" width="100%" />
-</p>
-
-<!-- Snake is generated by .github/workflows/snake.yml and pushed to the `output` branch -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wosonday/wosonday/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wosonday/wosonday/output/github-snake.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/wosonday/wosonday/output/github-snake.svg" />
-  </picture>
-</p>
-
----
-
-## 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/wosonday/SpySWAT"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wosonday&repo=SpySWAT&theme=transparent&title_color=1b998b&icon_color=1b998b&text_color=8b949e&hide_border=true" alt="SpySWAT" /></a>
-  <a href="https://github.com/wosonday/swat-preprocessing"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wosonday&repo=swat-preprocessing&theme=transparent&title_color=1b998b&icon_color=1b998b&text_color=8b949e&hide_border=true" alt="swat-preprocessing" /></a>
-  <a href="https://github.com/wosonday/agmag"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wosonday&repo=agmag&theme=transparent&title_color=1b998b&icon_color=1b998b&text_color=8b949e&hide_border=true" alt="agmag" /></a>
-  <a href="https://github.com/wosonday/Machine-learning-for-Streamflow-hybrid-model"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wosonday&repo=Machine-learning-for-Streamflow-hybrid-model&theme=transparent&title_color=1b998b&icon_color=1b998b&text_color=8b949e&hide_border=true" alt="ML streamflow hybrid model" /></a>
-</p>
-
-| Project | Description | Stack |
-|---|---|---|
-| [**SpySWAT**](https://github.com/wosonday/SpySWAT) | Automatic calibration & validation of the SWAT model | Python |
-| [**swat-preprocessing**](https://github.com/wosonday/swat-preprocessing) | `swatprep` — library & CLI to prepare DEM, land-use, soil, weather and streamflow inputs for SWAT / SWAT+ | Python |
-| [**Machine-learning-for-Streamflow-hybrid-model**](https://github.com/wosonday/Machine-learning-for-Streamflow-hybrid-model) | Hybrid physical + ML models for streamflow prediction | Python |
-| [**bias-correction**](https://github.com/wosonday/bias-correction) | Bias correction of climate model outputs | Python |
-| [**Hydrometeorology-indicates**](https://github.com/wosonday/Hydrometeorology-indicates) | Hydrometeorological indices computation | Python |
-| [**agmag**](https://github.com/wosonday/agmag) | Agents manager | Rust |
-| [**academic-writing-releases**](https://github.com/wosonday/academic-writing-releases) | Academic Writing add-in for Microsoft Word (Windows builds) | Office add-in |
 
 ---
 
@@ -120,7 +157,15 @@ I graduated in **Environmental Resource Management** and am currently pursuing a
 
 ## 🤝 Connect with me
 
-<!-- TODO(human): add your social / contact links here -->
+<p align="center">
+  <a href="https://wosonday.id.vn/"><img src="https://img.shields.io/badge/Website-1b998b?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/son-thanh-ba-nguyen-03b45130b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:thanhsonmttn@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/wosonday"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://huggingface.co/wosonday"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>
+</p>
+
+<p align="center"><i>“Less repetition. More research.”</i></p>
 
 <!-- ============================ FOOTER ============================ -->
 <p align="center">

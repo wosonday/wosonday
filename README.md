@@ -16,14 +16,12 @@
 
 ## About me
 
-Environmental researcher and M.Sc. candidate at **Nong Lam University**, Ho Chi Minh City, Vietnam.
-I study hydrology and climate change by combining **physically based models** with **machine learning**,
-mostly running SWAT and SWAT+ on Vietnamese river basins, and I build open-source tools that automate
-the parts of that work that are repetitive.
+Environmental researcher and M.Sc. candidate at **Nong Lam University**, Ho Chi Minh City.
+I combine **physically based models** with **machine learning** to study hydrology and climate change in Vietnam.
 
-- Streamflow simulation, calibration and validation for the Ba, An Lao and Lo river basins
-- Climate change and solar geoengineering (SAI, G6sulfur) impacts on flow regimes and agricultural drought
-- Hybrid physics + ML models and SWAT parameter regionalization for ungauged basins (NAFOSTED, ongoing)
+- Streamflow simulation with SWAT / SWAT+ on the Ba, An Lao and Lo river basins
+- Climate change and solar geoengineering (SAI, G6sulfur) impacts on flow and drought
+- Hybrid physics + ML models and parameter regionalization for ungauged basins
 
 ## Technical skills
 
@@ -31,50 +29,23 @@ the parts of that work that are repetitive.
   <img src="https://skillicons.dev/icons?i=py,r,git,docker,githubactions" alt="Python, R, Git, Docker, GitHub Actions" />
 </p>
 
-**Models and methods**
-
-| Area                | What I use                                                                                                              |
-| ------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| Hydrological models | **SWAT** (SWAT2012) and **SWAT+**: model setup and configuration                                                        |
-| Climate data        | **CMIP6** GCM outputs, GeoMIP **G6sulfur** and **SAI** scenarios, station and gridded observations (NetCDF)             |
-| Bias correction     | Application of statistical, machine learning, and deep learning approaches for climate model bias correction            |
-| Climate indices     | Calculation and analysis of the Standardized Precipitation Index (SPI) and other hydrometeorological drought indicators |
-| Machine learning    | Development and application of machine learning models for hydrological prediction and modeling                         |
-
-**Programming languages**
-
-| Language   | Used for                                                        |
-| ---------- | --------------------------------------------------------------- |
-| **Python** | Main language: research pipelines, libraries, CLIs and web apps |
-| **R**      | Statistical analysis                                            |
-
-**Libraries and tools**
-
-| Area                   | Libraries                                                          |
-| ---------------------- | ------------------------------------------------------------------ |
-| Arrays and data        | NumPy, pandas, SciPy, xarray, Dask, netCDF4, h5netcdf, Zarr        |
-| Geospatial             | Rasterio, GeoPandas, Shapely, Fiona, pyproj, GDAL; QGIS and ArcGIS |
-| Statistics and ML      | scikit-learn, XGBoost, LightGBM, statsmodels, SHAP, xsdba          |
-| Visualization and apps | Matplotlib, seaborn, Streamlit                                     |
-| Packaging and quality  | uv, pydantic, click, PyYAML, pytest, ruff, Docker, GitHub Actions  |
+- **Hydrological models** · SWAT, SWAT+
+- **Climate data** · CMIP6, GeoMIP G6sulfur and SAI scenarios, station and gridded NetCDF
+- **Methods** · bias correction (statistical, ML, deep learning), SPI and drought indices, ML for hydrological prediction
+- **Languages** · Python, R
+- **Data** · NumPy, pandas, SciPy, xarray, Dask, netCDF4, Zarr
+- **Geospatial** · Rasterio, GeoPandas, Shapely, pyproj, GDAL, QGIS, ArcGIS
+- **ML and statistics** · scikit-learn, XGBoost, LightGBM, statsmodels, SHAP, xsdba
+- **Visualization and tooling** · Matplotlib, seaborn, Streamlit, uv, pydantic, pytest, Docker, GitHub Actions
 
 ## Repositories
 
-**Hydrology and climate**
-
-| Repository                                                                               | What it does                                                                                                                                                                                                                                                                                                    |
-| ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [**SpySWAT**](https://github.com/wosonday/SpySWAT)                                       | Python library and CLI (`spyswat`) for **SWAT calibration, validation, sensitivity analysis and scenario runs**. Calibrates with GLUE, DDS, Differential Evolution or PSO across parallel workers, derives sensitivity from GLUE results without extra SWAT runs, and reads and writes TxtInOut files directly. |
-| [**swatprep**](https://github.com/wosonday/swat-preprocessing)                           | Turns **raw DEM, land-use, soil, weather and streamflow data into model-ready inputs** for SWAT Classic and SWAT+. One YAML file describes the project; every step reports pass / warn / fail checks. Comes with a Streamlit web app and a Docker image.                                                        |
-| [**bcflow**](https://github.com/wosonday/bcflow)                                         | **Config-driven bias correction** of climate and hydrological data on top of xsdba. Choose the method and parameters in YAML or JSON instead of editing code; configs are validated before any data is opened.                                                                                                  |
-| [**Hydrometeorology-indicates**](https://github.com/wosonday/Hydrometeorology-indicates) | Computes **drought and climate indices** (such as SPI) from daily station precipitation.                                                                                                                                                                                                                        |
-
-**Tools**
-
-| Repository                                                                             | What it does                                                                                                                                                                                                           |
-| -------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [**agmag**](https://github.com/wosonday/agmag)                                         | Rust control panel (`agm`) for **teams of AI coding agents** (Claude Code, Codex, OpenCode, Gemini): token use, context fill, subscription quota, an inbox of agents waiting for input, and budgets for assigned work. |
-| [**academic-writing-releases**](https://github.com/wosonday/academic-writing-releases) | Installers for a **Microsoft Word add-in for academic English**: local grammar checking (LanguageTool), English and Vietnamese translation, and an optional CoEdIT editing model.                                      |
+- [**SpySWAT**](https://github.com/wosonday/SpySWAT) · SWAT calibration, validation and sensitivity analysis
+- [**swatprep**](https://github.com/wosonday/swat-preprocessing) · raw DEM, land-use, soil and weather data to SWAT / SWAT+ inputs
+- [**bcflow**](https://github.com/wosonday/bcflow) · config-driven bias correction of climate data
+- [**Hydrometeorology-indicates**](https://github.com/wosonday/Hydrometeorology-indicates) · drought and climate indices (SPI)
+- [**agmag**](https://github.com/wosonday/agmag) · control panel for teams of AI coding agents
+- [**academic-writing-releases**](https://github.com/wosonday/academic-writing-releases) · Word add-in for academic English
 
 ## GitHub
 

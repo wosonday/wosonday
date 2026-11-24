@@ -18,37 +18,6 @@
 
 ---
 
-## 📌 Pinned
-
-<p align="center">
-<a href="https://github.com/wosonday/SpySWAT">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=wosonday&repo=SpySWAT&show_owner=false&border_radius=6&description_lines_count=2&bg_color=0d1117&border_color=3d444d&title_color=4493f8&text_color=9198a1&icon_color=9198a1" />
-    <img width="49%" alt="SpySWAT" src="https://github-readme-stats.vercel.app/api/pin/?username=wosonday&repo=SpySWAT&show_owner=false&border_radius=6&description_lines_count=2&bg_color=ffffff&border_color=d1d9e0&title_color=0969da&text_color=59636e&icon_color=59636e" />
-  </picture>
-</a>
-<a href="https://github.com/wosonday/swat-preprocessing">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=wosonday&repo=swat-preprocessing&show_owner=false&border_radius=6&description_lines_count=2&bg_color=0d1117&border_color=3d444d&title_color=4493f8&text_color=9198a1&icon_color=9198a1" />
-    <img width="49%" alt="swat-preprocessing" src="https://github-readme-stats.vercel.app/api/pin/?username=wosonday&repo=swat-preprocessing&show_owner=false&border_radius=6&description_lines_count=2&bg_color=ffffff&border_color=d1d9e0&title_color=0969da&text_color=59636e&icon_color=59636e" />
-  </picture>
-</a>
-<a href="https://github.com/wosonday/bcflow">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=wosonday&repo=bcflow&show_owner=false&border_radius=6&description_lines_count=2&bg_color=0d1117&border_color=3d444d&title_color=4493f8&text_color=9198a1&icon_color=9198a1" />
-    <img width="49%" alt="bcflow" src="https://github-readme-stats.vercel.app/api/pin/?username=wosonday&repo=bcflow&show_owner=false&border_radius=6&description_lines_count=2&bg_color=ffffff&border_color=d1d9e0&title_color=0969da&text_color=59636e&icon_color=59636e" />
-  </picture>
-</a>
-<a href="https://github.com/wosonday/agmag">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=wosonday&repo=agmag&show_owner=false&border_radius=6&description_lines_count=2&bg_color=0d1117&border_color=3d444d&title_color=4493f8&text_color=9198a1&icon_color=9198a1" />
-    <img width="49%" alt="agmag" src="https://github-readme-stats.vercel.app/api/pin/?username=wosonday&repo=agmag&show_owner=false&border_radius=6&description_lines_count=2&bg_color=ffffff&border_color=d1d9e0&title_color=0969da&text_color=59636e&icon_color=59636e" />
-  </picture>
-</a>
-</p>
-
----
-
 ## 🌱 About me
 
 I'm **Son** — an environmental researcher and **M.Sc. candidate at Nong Lam University**, Ho Chi Minh City, Vietnam 🇻🇳.
@@ -83,6 +52,16 @@ related to **water resources and food security**.
 
 ---
 
+## 📅 Contributions
+
+<p align="center">
+  <a href="https://github.com/wosonday">
+    <img src="https://ghchart.rshah.org/wosonday" alt="wosonday's contribution graph" width="100%" />
+  </a>
+</p>
+
+---
+
 ## 🧰 Skills & Technologies
 
 <p align="center">
@@ -96,32 +75,6 @@ related to **water resources and food security**.
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![xarray](https://img.shields.io/badge/xarray-2B6CB0?style=flat-square) ![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=flat-square&logo=pandas&logoColor=white) ![Rasterio](https://img.shields.io/badge/Rasterio-1b998b?style=flat-square) ![GDAL](https://img.shields.io/badge/GDAL-5CAE58?style=flat-square&logo=osgeo&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=flat-square) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 </p>
-
----
-
-## 📚 Publications
-
-<details open>
-<summary><b>2026</b></summary>
-
-- 📗 **Improving SWAT model accuracy using XGBoost with residual error learning method: a case study in the Upper Ba River Basin, Central Vietnam** — _Son, N. B. T._ · Viet Nam NATIONAL-GIS 2026 _(proceeding, peer-reviewed)_
-- 📝 **Quantifying the uncertainty of climate change impacts on hydrological regime of the Lo River Basin, Vietnam** — _Nguyen Ba Thanh Son_ · The GIS-IDEAS Journal (TGIJ) _(in revision)_ · [🔗](https://talks.geoinfo-lab.org/gis-ideas-2026/featured/)
-- 📤 **Toward a Vietnam-wide hydrologic model for surface water resources assessment: Regionalizing SWAT model parameters** — _L.H. Tu\*, Nguyen Ba Thanh Son, D.X. Hong, …_ · Hydrological Sciences Journal (HSJ) _(submitted)_
-- 📤 **Assessing agricultural drought propagation in the Ba River basin under climate change and solar geoengineering scenarios using SWAT-model** — _Nguyen Ba Thanh Son\*, L.H. Tu, D.X. Hong_ · Journal of Agriculture and Development (JAD) _(submitted)_
-- ✍️ **Assessment of hydrological impacts of the G6sulfur climate intervention scenario on river basins across different climatic zones in Vietnam** — _Nguyen Ba Thanh Son\*, L.H. Tu, D.X. Hong_ _(in preparation)_
-- ✍️ **How will Stratospheric Aerosol Injection (SAI) affect the hydrological regime and extreme weather conditions in the Ba River Basin, Vietnam?** — _Son, N. B. T._ _(in preparation)_
-
-</details>
-
-<details open>
-<summary><b>2025</b></summary>
-
-- 📗 **Assessing different objective functions used in SWAT model calibration: a case study in the An Lao River basin, Gia Lai province** — _Son, N. B. T._ · Viet Nam NATIONAL-GIS 2025 _(proceeding, peer-reviewed)_ · [🔗 ResearchGate](https://www.researchgate.net/publication/398651122_PHAN_TICH_CAC_HAM_MUC_TIEU_KHAC_NHAU_DUOC_SU_DUNG_TRONG_HIEU_CHINH_MO_HINH_SWAT_TRUONG_HOP_NGHIEN_CUU_TAI_LUU_VUC_SONG_AN_LAO_TINH_GIA_LAI)
-- 🖼️ **Assessing the impacts of climate changes on hydrological regime at Ba River Basin using CMIP6 data** — _Nguyen Ba Thanh Son_ · iVCEES-2025 Conference _(poster)_ · [🔗](https://icisequynhon.com/conferences/2025/iVCEES2025/program.html)
-
-</details>
-
-<sub>📗 published · 📝 in revision · 📤 submitted · ✍️ in preparation · 🖼️ poster — full list at <a href="https://wosonday.id.vn/publications">wosonday.id.vn/publications</a></sub>
 
 ---
 

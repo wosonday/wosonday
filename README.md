@@ -1,108 +1,41 @@
-<!-- ============================ BANNER ============================ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f4c75,50:1b998b,100:3a7d44&height=210&section=header&text=Nguyen%20Ba%20Thanh%20Son&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Hydrologist%20%C2%B7%20AI%20Engineer%20%C2%B7%20Research%20%C2%B7%20Engineering&descAlignY=58&descSize=18&animation=fadeIn" alt="banner" width="100%" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
+  <img src="./assets/banner-light.svg" width="100%" alt="Nguyen Ba Thanh Son, hydrologist and AI engineer, M.Sc. candidate at Nong Lam University, Ho Chi Minh City. Synthetic streamflow hydrographs.">
+</picture>
 
 <p align="center">
-  <a href="https://wosonday.id.vn/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=1B998B&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Son+%F0%9F%91%8B;M.Sc.+candidate+%40+Nong+Lam+University+%F0%9F%8E%93;Hydrology+%2B+AI+for+water+%26+food+security+%F0%9F%92%A7;SWAT+%2F+SWAT%2B+%C2%B7+CMIP6+%C2%B7+Machine+Learning+%F0%9F%A4%96;Based+in+Vietnam+%C2%B7+Thinking+in+systems+%F0%9F%8C%8F" alt="Typing SVG" />
-  </a>
+  <a href="https://wosonday.id.vn/">Website</a> ·
+  <a href="https://www.linkedin.com/in/son-thanh-ba-nguyen-03b45130b/">LinkedIn</a> ·
+  <a href="https://huggingface.co/wosonday">Hugging Face</a> ·
+  <a href="https://wosonday.id.vn/2026_09_NguyenBaThanhSon_Resume.pdf">Resume</a> ·
+  <a href="mailto:thanhsonmttn@gmail.com">thanhsonmttn@gmail.com</a>
 </p>
 
-<p align="center">
-  <a href="https://wosonday.id.vn/"><img src="https://img.shields.io/badge/Website-wosonday.id.vn-1b998b?style=flat-square&logo=googlechrome&logoColor=white" alt="website" /></a>
-  <img src="https://komarev.com/ghpvc/?username=wosonday&label=Profile%20views&color=1b998b&style=flat-square" alt="visitor counter" />
-  <img src="https://img.shields.io/github/followers/wosonday?label=Followers&style=flat-square&color=0f4c75&logo=github" alt="followers" />
-  <img src="https://img.shields.io/github/stars/wosonday?affiliations=OWNER&label=Stars&style=flat-square&color=3a7d44&logo=github" alt="stars" />
-</p>
+I am an environmental researcher and M.Sc. candidate at Nong Lam University in Ho Chi Minh City, Vietnam. I work on hydrology and climate change, combining physically based models with machine learning to study water resources and food security. Most of my work runs SWAT and SWAT+ on Vietnamese river basins, from calibration and climate scenarios to correcting model error with ML, and I build open-source tools to automate those workflows.
 
----
+## Research
 
-## 🌱 About me
+- Streamflow simulation with SWAT and SWAT+ on the Ba, An Lao and Lo river basins
+- Climate change impacts on hydrology with CMIP6, and the effects of solar geoengineering (SAI, G6sulfur) on flow regimes and agricultural drought
+- Hybrid physics and ML models: XGBoost residual error learning to correct SWAT streamflow
+- Regionalizing SWAT parameters to ungauged basins across Vietnam (NAFOSTED, ongoing)
+- Research tooling: [SWATprep](https://github.com/wosonday/swat-preprocessing), [SpySWAT](https://github.com/wosonday/SpySWAT) and [bcflow](https://github.com/wosonday/bcflow)
 
-I'm **Son** — an environmental researcher and **M.Sc. candidate at Nong Lam University**, Ho Chi Minh City, Vietnam 🇻🇳.
+## Technical skills
 
-My research focuses on **hydrology and climate change**, with an emphasis on applying both
-**physically-based models** and **artificial intelligence** to address critical global challenges
-related to **water resources and food security**.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/skills-dark.svg">
+  <img src="./assets/skills-light.svg" width="100%" alt="Technical skills: hydrological modeling (SWAT, SWAT+), climate data (CMIP6, bias correction), machine learning (scikit-learn, XGBoost), scientific computing (Python, R), geospatial (QGIS, ArcGIS, GDAL) and software">
+</picture>
 
-<table>
-  <tr>
-    <td align="center" width="25%">💧<br/><b>Hydrology</b><br/><sub>Understanding water systems</sub></td>
-    <td align="center" width="25%">🤖<br/><b>AI &amp; Data</b><br/><sub>Learning from complexity</sub></td>
-    <td align="center" width="25%">🌦️<br/><b>Climate</b><br/><sub>Exploring future scenarios</sub></td>
-    <td align="center" width="25%">🛠️<br/><b>Open Source</b><br/><sub>Building tools for research</sub></td>
-  </tr>
-</table>
+## GitHub
 
-### 🔬 What I do
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-dark.svg">
+  <img src="./assets/github-light.svg" width="100%" alt="GitHub contributions, stars, repositories, followers and languages">
+</picture>
 
-- **Hydrological Simulation** — building and calibrating SWAT / SWAT+ models for Vietnamese river basins
-- **Climate Impact Analysis** — CMIP6 data, climate-intervention (SAI / G6sulfur) scenarios and machine learning
-- **Climate & Hydrological Data Engineering** — automated pipelines for SWAT-based climate change scenario simulations
+## Education
 
-### 🎓 Education
-
-| Degree                                                              | Institution                | Period         |
-| ------------------------------------------------------------------- | -------------------------- | -------------- |
-| **M.Sc.** Environmental Resources Management _(Master by research)_ | Nong Lam University – HCMC | 2025 – Present |
-| **B.E.** Environmental Resources Management                         | Nong Lam University – HCMC | 2020 – 2024    |
-
-📄 **Resume:** [2026_09_NguyenBaThanhSon_Resume.pdf](https://wosonday.id.vn/2026_09_NguyenBaThanhSon_Resume.pdf)
-
----
-
-## 🧰 Skills & Technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,r,git,github,vscode" alt="skills" />
-</p>
-
-<p align="center"><b>Python libraries</b></p>
-
-<p align="center">
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![xarray](https://img.shields.io/badge/xarray-2B6CB0?style=flat-square) ![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=flat-square&logo=pandas&logoColor=white) ![Rasterio](https://img.shields.io/badge/Rasterio-1b998b?style=flat-square) ![GDAL](https://img.shields.io/badge/GDAL-5CAE58?style=flat-square&logo=osgeo&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=flat-square) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
-</p>
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=wosonday&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&title_color=1b998b&icon_color=1b998b&text_color=8b949e&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wosonday&layout=compact&langs_count=6&theme=transparent&title_color=1b998b&text_color=8b949e&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=wosonday&theme=transparent&ring=1B998B&fire=3A7D44&currStreakLabel=1B998B&hide_border=true" alt="GitHub streak" />
-</p>
-
----
-
-## 📐 Advanced Metrics
-
-<!-- Generated by .github/workflows/metrics.yml (lowlighter/metrics), committed to main. Requires the METRICS_TOKEN secret. -->
-<p align="center">
-  <img src="./metrics.svg" alt="GitHub metrics" />
-</p>
-
----
-
-## 🤝 Connect with me
-
-<p align="center">
-  <a href="https://wosonday.id.vn/"><img src="https://img.shields.io/badge/Website-1b998b?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
-  <a href="https://www.linkedin.com/in/son-thanh-ba-nguyen-03b45130b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:thanhsonmttn@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/wosonday"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://huggingface.co/wosonday"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>
-</p>
-
-<p align="center"><i>“Less repetition. More research.”</i></p>
-
-<!-- ============================ FOOTER ============================ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a7d44,50:1b998b,100:0f4c75&height=120&section=footer" alt="footer" width="100%" />
-</p>
+- **M.Sc.** Environmental Resources Management (Master by research), Nong Lam University, 2025 to present
+- **B.E.** Environmental Resources Management, Nong Lam University, 2020 to 2024
